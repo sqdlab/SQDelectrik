@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LM336Z2_5V")(type "KiCad")(uri "${KIPRJMOD}/CustomParts/LM336Z2_5V.kicad_sym")(options "")(descr ""))
+  (lib (name "BournsTrimpots")(type "KiCad")(uri "${KIPRJMOD}/CustomParts/BournsTrimpots.kicad_sym")(options "")(descr ""))
+  (lib (name "Diode_AKL")(type "KiCad")(uri "/media/prasanna/NewVolume/MyCircuits/PCB Stuff/Alternate-KiCAD-Library/symbols/Diode_AKL.kicad_sym")(options "")(descr ""))
+  (lib (name "Resistor_AKL")(type "KiCad")(uri "/media/prasanna/NewVolume/MyCircuits/PCB Stuff/Alternate-KiCAD-Library/symbols/Resistor_AKL.kicad_sym")(options "")(descr ""))
+  (lib (name "Resistor_US_AKL")(type "KiCad")(uri "/media/prasanna/NewVolume/MyCircuits/PCB Stuff/Alternate-KiCAD-Library/symbols/Resistor_US_AKL.kicad_sym")(options "")(descr ""))
+)
