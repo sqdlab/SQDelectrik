@@ -1,9 +1,5 @@
 # Safe Ohmmeter v2
 
-BOM:
-- https://www.digikey.com.au/en/products/detail/e-switch/100DP8T6B11M2QEH/4027554
-
-
 Multimeters can measure resistance, but may set a large voltage across the device under test. Inspired by a [project in Delft](https://qtwork.tudelft.nl/~schouten/oldstuff/viboxjunction-p.htm), this is a modernised circuit that:
 
 - Sets a fixed $10\textnormal{mV}$ across the sample
@@ -31,6 +27,8 @@ There is a handy table that helps with the conversion between measured voltage a
 
 
 ## Recalibrating the gains
+
+The inputs should measure $\pm10\textnormal{mV}$. If not, then open the box and tune the VREF trimpot. Note that if it does not breach $10\textnormal{mV}$, check the batteries.
 
 To recalibrate open the box and connect a resistor across the input and measure the voltage as follows:
 
